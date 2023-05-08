@@ -12,6 +12,7 @@ public class SomaDeHComNTemos {
 
             h = h + (1.0 / i);
         }
-        System.out.print(Math.round(h));
+       System.out.println(Math.round(h));//Math.round(h) torna o valor de h inteiro
+
     }
 }
